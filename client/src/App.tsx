@@ -48,7 +48,7 @@ function App() {
       <Footer>
         <Container>
           <p>&copy; 2020 Wild Code School</p>
-          <p>test modif staging</p>
+          <p>test modif staging automatic</p>
         </Container>
       </Footer>
     </div>
